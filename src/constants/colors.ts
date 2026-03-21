@@ -1,0 +1,33 @@
+export const colors = {
+  bgPrimary: '#0F1720',
+  bgSecondary: '#16202B',
+  surfacePrimary: 'rgba(255,255,255,0.08)',
+  surfaceSecondary: 'rgba(255,255,255,0.12)',
+  surfaceStrong: 'rgba(255,255,255,0.16)',
+  borderSoft: 'rgba(255,255,255,0.10)',
+  borderActive: 'rgba(204,235,220,0.55)',
+  textPrimary: '#F4F7F3',
+  textSecondary: '#C7D1CB',
+  textMuted: '#93A29C',
+  textOnAccent: '#0F1720',
+  accentMint: '#B9E7D0',
+  accentSage: '#8FC4AE',
+  accentLavender: '#C8B8F8',
+  accentPeach: '#F1C7B5',
+  accentGoldSoft: '#E7D6A8',
+  success: '#9FE3B2',
+  warning: '#F0D39A',
+  lockedOverlay: 'rgba(9,13,18,0.48)',
+  scrimStrong: 'rgba(8,11,15,0.58)',
+  scrimSoft: 'rgba(8,11,15,0.34)',
+  shadow: 'rgba(0,0,0,0.32)',
+} as const;
+
+export const gradients = {
+  screenOverlay: ['rgba(8,11,15,0.30)', 'rgba(8,11,15,0.72)'],
+  primaryButton: ['#B9E7D0', '#8FC4AE'],
+  premium: ['rgba(200,184,248,0.30)', 'rgba(241,199,181,0.22)'],
+  accessCard: ['rgba(185,231,208,0.18)', 'rgba(143,196,174,0.08)'],
+  resultCard: ['rgba(200,184,248,0.18)', 'rgba(143,196,174,0.12)'],
+  tabActive: ['rgba(185,231,208,0.26)', 'rgba(143,196,174,0.12)'],
+} as const;
