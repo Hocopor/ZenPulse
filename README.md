@@ -8,5 +8,6 @@
 
 Всё получилось очень не плохо и с первого раза.
 
-Ссылка на процесс создания: ...
-Ссылка на демонстрацию работы ZenPulse: ...
+Ссылка на процесс создания: https://youtu.be/cVlMWEmrU7k
+
+Ссылка на демонстрацию работы ZenPulse: https://youtube.com/shorts/s2HfXsv5wOw?feature=share
